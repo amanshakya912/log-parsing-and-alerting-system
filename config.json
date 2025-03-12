@@ -1,0 +1,15 @@
+{
+  "suspiciousPatterns": [
+    "failed login",
+    "unauthorized access",
+    "malicious activity detected",
+    "brute force attempt",
+    "sql injection",
+    "xss attempt"
+  ],
+  "regexPatterns": [
+    "\\b(?:failed|invalid|denied)\\b",
+    "\\b(?:unauthorized|forbidden)\\b",
+    "\\b(?:malicious|suspicious|attack)\\b"
+  ]
+}

@@ -1,0 +1,5 @@
+2025-03-12 10:45:00 INFO: User logged in successfully
+2025-03-12 10:46:00 ERROR: Failed login attempt for user 'admin'
+2025-03-12 10:47:00 WARNING: Unauthorized access attempt detected
+2025-03-12 10:48:00 INFO: Malicious activity detected in the system
+2025-03-12 10:49:00 ERROR: SQL injection attempt detected
