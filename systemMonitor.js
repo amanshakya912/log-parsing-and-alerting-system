@@ -8,7 +8,7 @@ const regexPatterns = config.regexPatterns.map(
 
 function analyzeLogFile(file) {
   const alerts = [];
-
+  console.log('filepath', file.path)
   const data = fs.readFileSync(file.path, "utf-8");
   const lines = data.split("\n");
 
