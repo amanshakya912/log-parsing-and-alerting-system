@@ -5,7 +5,7 @@ This project consists of two main tools:
 1. **Log Analyzer**: Parses and analyzes log files for suspicious patterns, such as failed logins, unauthorized access attempts, SQL injections, and other security threats.
 2. **Web URL Scanner**: Scans web pages for security vulnerabilities, including missing HTTP security headers, outdated server software, and insecure form actions.
 
-The project is built using **Node.js** for the backend and **React** for the frontend. The backend is hosted at `https://log-parsing-and-alerting-system-production.up.railway.app` using railway, while the frontend is accessible at `https://system-monitor-and-web-scanner-emve.vercel.app/` using vercel.
+The project is built using **Node.js** for the backend and **React** for the frontend. The backend is hosted at https://log-parsing-and-alerting-system-production.up.railway.app using railway, while the frontend is accessible at https://system-monitor-and-web-scanner-emve.vercel.app/ using vercel.
 
 ---
 
